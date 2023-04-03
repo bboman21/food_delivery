@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		Q0nJonHtnKn3+4pQU/tIFPlKTeo=
+		0l2V78SPYxIpUr2YEVpalJnRPsI=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,19 +54,35 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		IKHJsd2OQ885AVDLwuiTF9+RhxU=
+		+xb8SQoDkV8PfDYJ0vFQC7+1wjA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		VEqQUWJqiMHkuHuEWGozxZyLgvA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		yAyhTfoGD+A9yFYM1Et6M/S5w3w=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
 		wDH5D2bRg/hlIvlEWVSBPdmDqDY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Roboto-Black.ttf</key>
+		<data>
+		hp1DMe2Hgw6PGRBa/xQPFFhlXpU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Roboto-Bold.ttf</key>
+		<data>
+		Okp/9P26UxfWlB4tZuYp32w8jPM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Roboto-Medium.ttf</key>
+		<data>
+		tbo2MpM3Vun36KD4O/6QwhWnaOI=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Roboto-Regular.ttf</key>
+		<data>
+		uoeTF6zcBFuPp4y4+UhlBifQR3w=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -78,7 +94,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		yVOxVCAPVGv02sKNhFQGCKZjopo=
+		tYSyUnLApi1Olk6D8/qq9Pu+Cag=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -261,7 +277,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lui44PeWFRwAbp0BMTQ+VhLBUNLw6HW1wCpWPj1e/+s=
+			kHxVHuO72afaGkT4ckLSHlSsSrnvGt2I1Qu7TWMFaFQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -275,21 +291,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qdB+DSY7pQIUamnVEQLlvfBawSdbOXdb3IXLB+OjCrs=
+			8M75t41dxbWCG8YGoxnl7vKoYdwcifeZCJmdXCJBTxE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			wLFtJsOQgCH61hV18lWn39cIJOaa96N5N8d4TCIUi34=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			3Ed5czaNqNF4eXi0QWI2VfF1lyOTRoA1DryXIF4o54I=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
@@ -297,6 +313,34 @@
 			<key>hash2</key>
 			<data>
 			PpxwDKta79EyoX5iSFRt4iNU/WE97quqaG2Nz+pmiAs=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Roboto-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			80/BFNel0SMQM+/O+zocCmn0RM5pus2yjJr5SYHBnqo=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Roboto-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OaL50sapn7jem/Z0NzxAgs3oQlMxGAjKgNtlgiZpYu8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Roboto-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7PiNofhfp1385aoNndKXPdQOVwLONR1N48z+WCBgRM4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/fonts/Roboto-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cnfPuAXe9kEPMXEpuOH3i91H0aTiTCMwd9BuiKNuV64=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -317,7 +361,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xj/t1z73dMwEgFr4wqIHJ6jaMcL1Pzn2Yi2gko4RBM4=
+			IZryFczh4bDDVl1sRU5G1OR4am1/I43GxrQrufi2IN8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
